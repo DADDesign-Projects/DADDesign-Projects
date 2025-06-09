@@ -27,13 +27,13 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
   - Perfect hardware/software integration
 
 #### **PENDAII Platform (Generation 2)**
-- **[PENDAII-Hardware](https://github.com/DADDesign-Projects/PENDAII-Hardware)** ⭐ 1 star
+- **[PENDAII-Hardware](https://github.com/DADDesign-Projects/PENDAII-Hardware)** ⭐ 2 star
   - Hardware evolution
   - Enhanced performance and features
   - New optimized PCB architecture
   - Studio-quality components
   
-- **[PENDAII-Software](https://github.com/DADDesign-Projects/PENDAII-Software)** ⭐ 1 star
+- **[PENDAII-Software](https://github.com/DADDesign-Projects/PENDAII-Software)** ⭐ 2 star
   - Next-generation software framework
   - Improved architecture and new DSP capabilities
   - Native PENDAII hardware support
