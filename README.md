@@ -14,18 +14,6 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 
 ### 🔧 **PENDA Ecosystem - Complete Hardware + Software Solutions**
 
-#### **PENDA Platform (Generation 1)**
-- **[PENDA-Hardware](https://github.com/DADDesign-Projects/PENDA-Hardware)** ⭐ 7 stars
-  - PCB and electronic design
-  - Professional KiCad design
-  - Optimized for audio effects pedals
-  - Integrated user interface (encoders, display, footswitches)
-  
-- **[PENDA-Software](https://github.com/DADDesign-Projects/PENDA-Software)** ⭐ 6 stars
-  - Software framework for PENDA platform
-  - Based on Daisy Seed and developed with STM32CubeIDE
-  - Perfect hardware/software integration
-
 #### **PENDAII Platform (Generation 2)**
 - **[PENDAII-Hardware](https://github.com/DADDesign-Projects/PENDAII-Hardware)** ⭐ 2 star
   - Hardware evolution
@@ -38,6 +26,18 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
   - Improved architecture and new DSP capabilities
   - Native PENDAII hardware support
 
+#### **PENDA Platform (Generation 1)**
+- **[PENDA-Hardware](https://github.com/DADDesign-Projects/PENDA-Hardware)** ⭐ 7 stars
+  - PCB and electronic design
+  - Professional KiCad design
+  - Optimized for audio effects pedals
+  - Integrated user interface (encoders, display, footswitches)
+  
+- **[PENDA-Software](https://github.com/DADDesign-Projects/PENDA-Software)** ⭐ 6 stars
+  - Software framework for PENDA platform
+  - Based on Daisy Seed and developed with STM32CubeIDE
+  - Perfect hardware/software integration
+    
 ### 🛠️ **Development Tools**
 
 - **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 4 stars
