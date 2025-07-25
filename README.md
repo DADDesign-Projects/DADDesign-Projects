@@ -40,12 +40,12 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
     
 ### 🛠️ **Development Tools**
 
-- **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 5 stars
+- **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 6 stars
   - STM32CubeIDE template for Daisy Seed
   - Complete integration: audio codec, SDRAM, QSPI flash memory
   - Solid foundation for any Daisy Seed project
 
-- **[Daisy_QSPI_Flasher](https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher)** ⭐ 4 stars
+- **[Daisy_QSPI_Flasher](https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher)** ⭐ 5 stars
   - QSPI flashing utility for Daisy Seed
   - Remote loader for flash memory
   - Simplifies application deployment
