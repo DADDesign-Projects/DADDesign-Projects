@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 
 ### 🎨 **Graphics Libraries**
 
-- **[DaisySeedGFX2](https://github.com/DADDesign-Projects/DaisySeedGFX2)** ⭐ 7 stars
+- **[DaisySeedGFX2](https://github.com/DADDesign-Projects/DaisySeedGFX2)** ⭐ 8 stars
   - MK2 graphics library for Daisy Seed
   - TFT display support for ST7789 and ST7735
   - User interface for effects pedals
