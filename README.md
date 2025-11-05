@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 ### 🔧 **PENDA Ecosystem - Complete Hardware + Software Solutions**
 
 #### **PENDAII Platform (Generation 2)**
-- **[PENDAII-Hardware](https://github.com/DADDesign-Projects/PENDAII-Hardware)** ⭐ 2 star
+- **[PENDAII-Hardware](https://github.com/DADDesign-Projects/PENDAII-Hardware)** ⭐ 3 star
   - Hardware evolution
   - Enhanced performance and features
   - New optimized PCB architecture
