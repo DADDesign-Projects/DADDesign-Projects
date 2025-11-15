@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 
 ### 🎵 **Advanced Audio Projects**
 
-- **[Asynchronous-SPDIF-Mixer](https://github.com/DADDesign-Projects/Asynchronous-SPDIF-Mixer)** ⭐ 3 stars
+- **[Asynchronous-SPDIF-Mixer](https://github.com/DADDesign-Projects/Asynchronous-SPDIF-Mixer)** ⭐ 7 stars
   - Asynchronous S/PDIF mixer on STM32H743
   - Synchronization and mixing of 3 S/PDIF streams
   - Automatic clock drift compensation
