@@ -11,9 +11,15 @@ Based in France 🇫🇷 | Specialized in STM32 & Daisy Seed
 Welcome to my GitHub profile! I'm passionate about embedded audio solutions development, with particular expertise in STM32 technologies and the Daisy Seed platform. My projects focus on creating tools and frameworks for audio effects pedals and digital signal processing.
 
 ## 🚀 Featured Projects
+### 🔧 **OSCAR Ecosystem - Complete Hardware + Software Solutions**
 
+#### 
+- **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 4 stars
+  - P01 Processor Hardware: STM32H743, 64 MB SDRAM, 32 MB QSPI Flash, USB, ST-Link Debug, 4 encoders, 2 switches.
+  - A01 Analog Hardware: Stereo signal path, PCM3060 audio CODEC, analog dry channel with PGA2310, true-bypass relay, fully isolated power supply.
+  - FORGE Software Framework: A development framework designed to easily create audio-processing devices. It provides GUI tools, DSP modules, drivers, and middleware components (for example, encoder handling).
+  - Complete P01A01 Software: A fully integrated software stack that brings all hardware and framework elements together into a functional guitar effects pedal.  
 ### 🔧 **PENDA Ecosystem - Complete Hardware + Software Solutions**
-
 #### **PENDAII Platform (Generation 2)**
 - **[PENDAII-Hardware](https://github.com/DADDesign-Projects/PENDAII-Hardware)** ⭐ 3 star
   - Hardware evolution
