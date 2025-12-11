@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 ### 🔧 **OSCAR Ecosystem - Complete Hardware + Software Solutions**
 
 #### 
-- **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 5 stars
+- **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 6 stars
   - P01 Processor Hardware: STM32H743, 64 MB SDRAM, 32 MB QSPI Flash, USB, ST-Link Debug, 4 encoders, 2 switches.
   - A01 Analog Hardware: Stereo signal path, 24 bit PCM3060 audio CODEC, analog dry channel with PGA2310, true-bypass relay, fully isolated power supply.
   - FORGE Software Framework: A development framework designed to easily create audio-processing devices. It provides GUI tools, DSP modules, drivers, and middleware components (for example, encoder handling).
@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 
 ### 🎨 **Graphics Libraries**
 
-- **[DaisySeedGFX2](https://github.com/DADDesign-Projects/DaisySeedGFX2)** ⭐ 9 stars
+- **[DaisySeedGFX2](https://github.com/DADDesign-Projects/DaisySeedGFX2)** ⭐ 11 stars
   - MK2 graphics library for Daisy Seed
   - TFT display support for ST7789 and ST7735
   - User interface for effects pedals
