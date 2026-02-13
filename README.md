@@ -4,6 +4,7 @@
 
 Based in France 🇫🇷 | Specialized in STM32 & Daisy Seed
 
+Follow all the latest updates, project progress, and demos on my [Facebook page](https://www.facebook.com/people/DADDesign-Projects/61583645957068/)! 🎛️🎶
 ---
 
 ## 👋 About
