@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 ### 🔧 **OSCAR Ecosystem - Complete Hardware + Software Solutions**
 
 #### 
-- **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 9 stars
+- **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 10 stars
   - P01 Processor Hardware: STM32H743, 64 MB SDRAM, 32 MB QSPI Flash, USB, ST-Link Debug, 4 encoders, 2 switches.
   - A01 Analog Hardware: Stereo signal path, 24 bit PCM3060 audio CODEC, analog dry channel with PGA2310, true-bypass relay, fully isolated power supply.
   - FORGE Software Framework: A development framework designed to easily create audio-processing devices. It provides GUI tools, DSP modules, drivers, and middleware components (for example, encoder handling).
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
   - Native PENDAII hardware support
 
 #### **PENDA Platform (Generation 1)**
-- **[PENDA-Hardware](https://github.com/DADDesign-Projects/PENDA-Hardware)** ⭐ 7 stars
+- **[PENDA-Hardware](https://github.com/DADDesign-Projects/PENDA-Hardware)** ⭐ 9 stars
   - PCB and electronic design
   - Professional KiCad design
   - Optimized for audio effects pedals
@@ -47,12 +47,12 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
     
 ### 🛠️ **Development Tools**
 
-- **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 13 stars
+- **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 14 stars
   - STM32CubeIDE template for Daisy Seed
   - Complete integration: audio codec, SDRAM, QSPI flash memory
   - Solid foundation for any Daisy Seed project
 
-- **[Daisy_QSPI_Flasher](https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher)** ⭐ 5 stars
+- **[Daisy_QSPI_Flasher](https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher)** ⭐ 7 stars
   - QSPI flashing utility for Daisy Seed
   - Remote loader for flash memory
   - Simplifies application deployment
