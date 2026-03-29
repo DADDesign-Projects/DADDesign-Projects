@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
     
 ### 🛠️ **Development Tools**
 
-- **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 14 stars
+- **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 15 stars
   - STM32CubeIDE template for Daisy Seed
   - Complete integration: audio codec, SDRAM, QSPI flash memory
   - Solid foundation for any Daisy Seed project
@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 
 ### 🎵 **Advanced Audio Projects**
 
-- **[Asynchronous-SPDIF-Mixer](https://github.com/DADDesign-Projects/Asynchronous-SPDIF-Mixer)** ⭐ 8 stars
+- **[Asynchronous-SPDIF-Mixer](https://github.com/DADDesign-Projects/Asynchronous-SPDIF-Mixer)** ⭐ 9 stars
   - Asynchronous S/PDIF mixer on STM32H743
   - Synchronization and mixing of 3 S/PDIF streams
   - Automatic clock drift compensation
