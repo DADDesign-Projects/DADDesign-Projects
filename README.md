@@ -15,14 +15,14 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 ### 🔧 **OSCAR Ecosystem - Complete Hardware + Software Solutions**
 
 #### 
-- **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 10 stars
+- **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 11 stars
   - P01 Processor Hardware: STM32H743, 64 MB SDRAM, 32 MB QSPI Flash, USB, ST-Link Debug, 4 encoders, 2 switches.
   - A01 Analog Hardware: Stereo signal path, 24 bit PCM3060 audio CODEC, analog dry channel with PGA2310, true-bypass relay, fully isolated power supply.
   - FORGE Software Framework: A development framework designed to easily create audio-processing devices. It provides GUI tools, DSP modules, drivers, and middleware components (for example, encoder handling).
   - Complete P01A01 Software: A fully integrated software stack that brings all hardware and framework elements together into a functional guitar effects pedal.  
 ### 🔧 **PENDA Ecosystem - Complete Hardware + Software Solutions**
 #### **PENDAII Platform (Generation 2)**
-- **[PENDAII-Hardware](https://github.com/DADDesign-Projects/PENDAII-Hardware)** ⭐3 star
+- **[PENDAII-Hardware](https://github.com/DADDesign-Projects/PENDAII-Hardware)** ⭐4 star
   - Hardware evolution
   - Enhanced performance and features
   - New optimized PCB architecture
@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 
 ### 🎵 **Advanced Audio Projects**
 
-- **[Asynchronous-SPDIF-Mixer](https://github.com/DADDesign-Projects/Asynchronous-SPDIF-Mixer)** ⭐ 9 stars
+- **[Asynchronous-SPDIF-Mixer](https://github.com/DADDesign-Projects/Asynchronous-SPDIF-Mixer)** ⭐ 10 stars
   - Asynchronous S/PDIF mixer on STM32H743
   - Synchronization and mixing of 3 S/PDIF streams
   - Automatic clock drift compensation
