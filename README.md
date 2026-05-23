@@ -37,19 +37,19 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
     
 ### 🛠️ **Development Tools**
 
-- **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 15 stars
+- **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 16 stars
   - STM32CubeIDE template for Daisy Seed
   - Complete integration: audio codec, SDRAM, QSPI flash memory
   - Solid foundation for any Daisy Seed project
 
-- **[Daisy_QSPI_Flasher](https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher)** ⭐ 7 stars
+- **[Daisy_QSPI_Flasher](https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher)** ⭐ 8 stars
   - QSPI flashing utility for Daisy Seed
   - Remote loader for flash memory
   - Simplifies application deployment
 
 ### 🎨 **Graphics Libraries**
 
-- **[DaisySeedGFX2](https://github.com/DADDesign-Projects/DaisySeedGFX2)** ⭐ 15 stars
+- **[DaisySeedGFX2](https://github.com/DADDesign-Projects/DaisySeedGFX2)** ⭐ 16 stars
   - MK2 graphics library for Daisy Seed
   - TFT display support for ST7789 and ST7735
   - User interface for effects pedals
