@@ -14,27 +14,27 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 
 ## 🚀 Featured Projects
 ### 🎶**Digital Effect Pedales**
-#### 🔧 **OSCAR Ecosystem: No-Compromise High-End Hardware & Software Digital Effects Solution powered by STM32H743.**
+**FORGE** Ecosystem: No-Compromise High-End Hardware & Software Digital Effects Solution.
 
-##### 
+#### **🐈‍⬛OSCAR Platform powered by STM32H743**.
 - **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 11 stars
   - P01 Processor Hardware: STM32H743, 64 MB SDRAM, 32 MB QSPI Flash, USB, ST-Link Debug, 4 encoders, 2 switches.
   - A01 Analog Hardware: Stereo signal path, 24 bit PCM3060 audio CODEC, analog dry channel with PGA2310, true-bypass relay, fully isolated power supply.
   - FORGE Software Framework: A development framework designed to easily create audio-processing devices. It provides GUI tools, DSP modules, drivers, and middleware components (for example, encoder handling).
-  - Complete P01A01 Software: A fully integrated software stack that brings all hardware and framework elements together into a functional guitar effects pedal.  
-#### 🔧 **OSCAR Ecosystem: Complete Digital Effects Solution (Hardware & Software) powered by Electrosmith Daisy Seed**
-&nbsp; &nbsp; &nbsp; &nbsp;**PENDA Platform (Generation 1)**
+  - Complete P01A01 Software: A fully integrated software stack that brings all hardware and framework elements together into a functional guitar effects pedal.
+        
+#### **🐼PENDA Platform powered by Electrosmith Daisy Seed**
 - **[PENDA-Hardware](https://github.com/DADDesign-Projects/PENDA-Hardware)** ⭐ 9 stars
   - PCB and electronic design
   - Professional KiCad design
   - Optimized for audio effects pedals
   - Integrated user interface (encoders, display, footswitches)
-  
+
 - **[PENDA-Software](https://github.com/DADDesign-Projects/PENDA-Software)** ⭐ 6 stars
   - Software framework for PENDA platform
   - Based on Daisy Seed and developed with STM32CubeIDE
   - Perfect hardware/software integration
-    
+
 ### 🛠️ **Development Tools**
 
 - **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 16 stars
