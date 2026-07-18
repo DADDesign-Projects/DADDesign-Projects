@@ -13,8 +13,10 @@ Based in France 🇫🇷 | Specialized in STM32 & Daisy Seed
 Welcome to my GitHub profile! I'm passionate about embedded audio solutions development, with particular expertise in STM32 technologies and the Daisy Seed platform. My projects focus on creating tools and frameworks for audio effects pedals and digital signal processing.
 
 ## 🚀 Featured Projects
-### 🎶**Digital Effect Pedales**
-**FORGE** Ecosystem: No-Compromise High-End Hardware & Software Digital Effects Solution.
+### 🎶**FORGE-Powered Digital Pedals**
+#### **FORGE** Ecosystem: No-Compromise High-End Hardware & Software Digital Effects Solution.
+- [FORGE](https://github.com/DADDesign-Projects/DAD_FORGE).
+- [Documentation](https://daddesign-projects.github.io/OSCAR_Documentation)
 
 #### **🐈‍⬛OSCAR Platform powered by STM32H743**.
 - **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 11 stars
