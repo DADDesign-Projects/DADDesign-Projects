@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 #### **FORGE** Ecosystem: No-Compromise High-End Hardware & Software Digital Effects Solution.
 - **🛠️[FORGE](https://github.com/DADDesign-Projects/DAD_FORGE).**
 - **📄[Documentation](https://daddesign-projects.github.io/OSCAR_Documentation).**
-- **🎶[![SoundCloud Demo]([https://i.imgur.com/xxxxx.png)](https://soundcloud.com/daddesign-projects)**
+- **🎶[SoundCloud Demo](https://soundcloud.com/daddesign-projects)**
 
 #### **🐈‍⬛OSCAR Platform powered by STM32H743**.
 - **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 11 stars
