@@ -13,10 +13,11 @@ Based in France 🇫🇷 | Specialized in STM32 & Daisy Seed
 Welcome to my GitHub profile! I'm passionate about embedded audio solutions development, with particular expertise in STM32 technologies and the Daisy Seed platform. My projects focus on creating tools and frameworks for audio effects pedals and digital signal processing.
 
 ## 🚀 Featured Projects
-### 🎶**FORGE-Powered Digital Pedals**
+### 🎛️**FORGE-Powered Digital Pedals**
 #### **FORGE** Ecosystem: No-Compromise High-End Hardware & Software Digital Effects Solution.
-- [FORGE](https://github.com/DADDesign-Projects/DAD_FORGE).
-- [Documentation](https://daddesign-projects.github.io/OSCAR_Documentation)
+- **🛠️[FORGE](https://github.com/DADDesign-Projects/DAD_FORGE).**
+- **📄[Documentation](https://daddesign-projects.github.io/OSCAR_Documentation).**
+- **🎶[![SoundCloud Demo]([https://i.imgur.com/xxxxx.png)](https://soundcloud.com/daddesign-projects)**
 
 #### **🐈‍⬛OSCAR Platform powered by STM32H743**.
 - **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 11 stars
@@ -26,13 +27,13 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
   - Complete P01A01 Software: A fully integrated software stack that brings all hardware and framework elements together into a functional guitar effects pedal.
         
 #### **🐼PENDA Platform powered by Electrosmith Daisy Seed**
-- **[PENDA-Hardware](https://github.com/DADDesign-Projects/PENDA-Hardware)** ⭐ 9 stars
+- **[PENDA-Hardware](https://github.com/DADDesign-Projects/PENDA-Hardware)** ⭐ 10 stars
   - PCB and electronic design
   - Professional KiCad design
   - Optimized for audio effects pedals
   - Integrated user interface (encoders, display, footswitches)
 
-- **[PENDA-Software](https://github.com/DADDesign-Projects/PENDA-Software)** ⭐ 6 stars
+- **[PENDA-Software](https://github.com/DADDesign-Projects/PENDA-Software)** ⭐ 7 stars
   - Software framework for PENDA platform
   - Based on Daisy Seed and developed with STM32CubeIDE
   - Perfect hardware/software integration
@@ -51,7 +52,7 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 
 ### 🎨 **Graphics Libraries**
 
-- **[DaisySeedGFX2](https://github.com/DADDesign-Projects/DaisySeedGFX2)** ⭐ 17 stars
+- **[DaisySeedGFX2](https://github.com/DADDesign-Projects/DaisySeedGFX2)** ⭐ 19 stars
   - MK2 graphics library for Daisy Seed
   - TFT display support for ST7789 and ST7735
   - User interface for effects pedals
