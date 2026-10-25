@@ -20,27 +20,27 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 - **🎶[SoundCloud Demo](https://soundcloud.com/daddesign-projects)**
 
 #### **🐈‍⬛OSCAR Platform powered by STM32H743**.
-- **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 11 stars
+- **[OSCAR_P01A01](https://github.com/DADDesign-Projects/OSCAR_P01A01)** ⭐ 12 stars
   - P01 Processor Hardware: STM32H743, 64 MB SDRAM, 32 MB QSPI Flash, USB, ST-Link Debug, 4 encoders, 2 switches.
   - A01 Analog Hardware: Stereo signal path, 24 bit PCM3060 audio CODEC, analog dry channel with PGA2310, true-bypass relay, fully isolated power supply.
   - FORGE Software Framework: A development framework designed to easily create audio-processing devices. It provides GUI tools, DSP modules, drivers, and middleware components (for example, encoder handling).
   - Complete P01A01 Software: A fully integrated software stack that brings all hardware and framework elements together into a functional guitar effects pedal.
         
 #### **🐼PENDA Platform powered by Electrosmith Daisy Seed**
-- **[PENDA-Hardware](https://github.com/DADDesign-Projects/PENDA-Hardware)** ⭐ 10 stars
+- **[PENDA-Hardware](https://github.com/DADDesign-Projects/PENDA-Hardware)** ⭐ 12 stars
   - PCB and electronic design
   - Professional KiCad design
   - Optimized for audio effects pedals
   - Integrated user interface (encoders, display, footswitches)
 
-- **[PENDA-Software](https://github.com/DADDesign-Projects/PENDA-Software)** ⭐ 7 stars
+- **[PENDA-Software](https://github.com/DADDesign-Projects/PENDA-Software)** ⭐ 8 stars
   - Software framework for PENDA platform
   - Based on Daisy Seed and developed with STM32CubeIDE
   - Perfect hardware/software integration
 
 ### 🛠️ **Development Tools**
 
-- **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 16 stars
+- **[DaisySeedCubeTemplate](https://github.com/DADDesign-Projects/DaisySeedCubeTemplate)** ⭐ 18 stars
   - STM32CubeIDE template for Daisy Seed
   - Complete integration: audio codec, SDRAM, QSPI flash memory
   - Solid foundation for any Daisy Seed project
@@ -52,14 +52,14 @@ Welcome to my GitHub profile! I'm passionate about embedded audio solutions deve
 
 ### 🎨 **Graphics Libraries**
 
-- **[DaisySeedGFX2](https://github.com/DADDesign-Projects/DaisySeedGFX2)** ⭐ 19 stars
+- **[DaisySeedGFX2](https://github.com/DADDesign-Projects/DaisySeedGFX2)** ⭐ 22 stars
   - MK2 graphics library for Daisy Seed
   - TFT display support for ST7789 and ST7735
   - User interface for effects pedals
 
 ### 🎵 **Advanced Audio Projects**
 
-- **[Asynchronous-SPDIF-Mixer](https://github.com/DADDesign-Projects/Asynchronous-SPDIF-Mixer)** ⭐ 11 stars
+- **[Asynchronous-SPDIF-Mixer](https://github.com/DADDesign-Projects/Asynchronous-SPDIF-Mixer)** ⭐ 12 stars
   - Asynchronous S/PDIF mixer on STM32H743
   - Synchronization and mixing of 3 S/PDIF streams
   - Automatic clock drift compensation
